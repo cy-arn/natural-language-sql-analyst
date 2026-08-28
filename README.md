@@ -4,6 +4,9 @@ An AI-powered Streamlit application that allows non-technical users to upload a 
 
 The application uses **Google Gemini (`gemini-3.6-flash`)** to convert a user's question into a DuckDB-compatible SQL query. The generated query is validated and then executed against the uploaded data using **DuckDB**.
 
+## Streamlit App Link
+https://natural-language-sql-analyst-by-arnab.streamlit.app/
+
 ## Project Objective
 
 The goal of this project is to make SQL-based data analysis accessible to users who do not know SQL.
